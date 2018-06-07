@@ -268,5 +268,11 @@ DC 모터는 BLDC보다 높이가 약 100mm 정도 차이가 남(너무 크다) 
 <br>
 가공품 도착하여 구매품과 함께 조립 
 <br>
+![완성품](https://github.com/jonghyunlee/Project/blob/master/%EC%A1%B0%EB%A6%BD%201.jpg?raw=true) <br>
 
-
+완성된 후 모습<br>
+<br>
+<br>
+<br>
+간섭을 피하려고 치수에 여유를 많이 주어서 설계 상으로 보던 것 보다 <br>
+더 크게 느껴진다.... <br>
