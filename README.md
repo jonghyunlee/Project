@@ -238,6 +238,30 @@ DC 모터는 BLDC보다 높이가 약 100mm 정도 차이가 난다.(너무 크�
 <br>
 <br>
 <br>
+![모터 1](https://github.com/jonghyunlee/Project/blob/master/%EB%AA%A8%ED%84%B0%201.jpg?raw=true) <br>
+모터<br>
+<br>
+<br>
+<br>
+
+![모터 2](https://github.com/jonghyunlee/Project/blob/master/%EB%AA%A8%ED%84%B0%202.jpg?raw=true) <br>
+모터<br>
+<br>
+<br>
+<br>
+
+![컨트롤러](https://github.com/jonghyunlee/Project/blob/master/%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.jpg?raw=true)<br>
+컨트롤러<br>
+<br>
+<br>
+<br>
+
+![배터리](https://github.com/jonghyunlee/Project/blob/master/%EB%B0%B0%ED%84%B0%EB%A6%AC.jpg?raw=true)<br>
+배터리 팩<br>
+<br>
+<br>
+<br>
+<br>
 
 모터 테스트 <br>
 <br>
